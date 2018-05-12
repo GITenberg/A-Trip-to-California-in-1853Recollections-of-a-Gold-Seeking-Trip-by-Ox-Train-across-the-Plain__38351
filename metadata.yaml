@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39417'
     url: http://www.gutenberg.org/2009/agents/39417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38351#A-Trip-to-California-in-1853Recollections-of-a-Gold-Seeking-Trip-by-Ox-Train-across-the-Plain_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-20'
 gutenberg_type: Text
